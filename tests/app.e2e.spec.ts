@@ -14,7 +14,7 @@ const text = {
   outcomeValueYes: /Outcome:\s*Yes/i,
 }
 
-test.use({ locale: 'en-US' })
+test.use({ locale: 'en-US', timezoneId: 'UTC' })
 
 function looksLikeTrivialNumericComparison(prompt: string): boolean {
   const en = /^\s*(?:the number\s+)?\d+(?:[.,]\d+)?\s*(?:is\s+)?(?:greater than|less than|>|<)\s*\d+(?:[.,]\d+)?\b/i
@@ -71,7 +71,9 @@ test('forecast can be created and resolved from forecasts page', async ({ page }
 
   await page.getByLabel(text.prompt).fill(prompt)
   await page.getByLabel(text.resolveAt).fill(pastDate)
+  await expect(page.getByLabel(text.resolveAt)).toHaveValue(pastDate)
   await page.getByRole('spinbutton', { name: text.probability }).first().fill('61')
+  await expect(page.getByLabel(text.resolveAt)).toHaveValue(pastDate)
   await page.getByRole('button', { name: text.addForecast }).click()
 
   await expect(page.getByText(prompt)).toBeVisible()
