@@ -1,3 +1,5 @@
+[Инструкция на русском языке здесь](README.ru.md).
+
 # Confidence Trainer
 
 An offline probability calibration trainer. Give binary statements probabilities, see outcomes and Brier errors, and track calibration. Record personal forecasts and resolve them after their chosen date.
