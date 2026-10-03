@@ -76,7 +76,8 @@ test('forecast can be created and resolved from forecasts page', async ({ page }
   await expect(page.getByLabel(text.resolveAt)).toHaveValue(pastDate)
   await page.getByRole('button', { name: text.addForecast }).click()
 
-  await expect(page.getByText(prompt)).toBeVisible()
+  // Wait for the saved list entry, not the still-filled textarea during saving.
+  await expect(page.locator('li').filter({ hasText: prompt })).toBeVisible()
   await page.reload()
   await expect(page.getByRole('button', { name: text.resolveYes }).first()).toBeVisible()
   await page.getByRole('button', { name: text.resolveYes }).first().click()
