@@ -1,0 +1,1982 @@
+[
+  {
+    "id": "fact-ru-0001",
+    "prompt": "????? 151 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0002",
+    "prompt": "????? 52 ?????? 120.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0003",
+    "prompt": "13 + 8 = 22.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0004",
+    "prompt": "??? 2004 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0005",
+    "prompt": "? ???? 30 ????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0006",
+    "prompt": "????? 106 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0007",
+    "prompt": "????? 157 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0008",
+    "prompt": "????? 58 ?????? 120.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0009",
+    "prompt": "19 + 14 = 34.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0010",
+    "prompt": "??? 2010 ???????? ??????????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0011",
+    "prompt": "? ??????? 30 ????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0012",
+    "prompt": "????? 112 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0013",
+    "prompt": "????? 163 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0014",
+    "prompt": "????? 64 ?????? 120.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0015",
+    "prompt": "25 + 7 = 33.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0016",
+    "prompt": "??? 2016 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0017",
+    "prompt": "? ???? 30 ????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0018",
+    "prompt": "????? 118 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0019",
+    "prompt": "????? 169 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0020",
+    "prompt": "????? 70 ?????? 120.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0021",
+    "prompt": "11 + 13 = 25.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0022",
+    "prompt": "??? 2022 ???????? ??????????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0023",
+    "prompt": "? ??????? 30 ????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0024",
+    "prompt": "????? 124 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0025",
+    "prompt": "????? 175 ??????? ?? 5 ??? ???????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0026",
+    "prompt": "????? 76 ?????? 120.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0027",
+    "prompt": "17 + 6 = 24.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0028",
+    "prompt": "??? 2028 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0029",
+    "prompt": "? ???? 30 ????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0030",
+    "prompt": "????? 130 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0031",
+    "prompt": "????? 181 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0032",
+    "prompt": "????? 82 ?????? 120.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0033",
+    "prompt": "23 + 12 = 36.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0034",
+    "prompt": "??? 2004 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0035",
+    "prompt": "? ??????? 30 ????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0036",
+    "prompt": "????? 136 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0037",
+    "prompt": "????? 187 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0038",
+    "prompt": "????? 88 ?????? 120.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0039",
+    "prompt": "29 + 5 = 35.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0040",
+    "prompt": "??? 2010 ???????? ??????????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0041",
+    "prompt": "? ???? 30 ????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0042",
+    "prompt": "????? 142 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0043",
+    "prompt": "????? 193 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0044",
+    "prompt": "????? 94 ?????? 120.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0045",
+    "prompt": "15 + 11 = 27.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0046",
+    "prompt": "??? 2016 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0047",
+    "prompt": "? ??????? 30 ????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0048",
+    "prompt": "????? 148 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0049",
+    "prompt": "????? 199 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0050",
+    "prompt": "????? 100 ?????? 120.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0051",
+    "prompt": "21 + 17 = 39.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0052",
+    "prompt": "??? 2022 ???????? ??????????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0053",
+    "prompt": "? ???? 30 ????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0054",
+    "prompt": "????? 154 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0055",
+    "prompt": "????? 205 ??????? ?? 5 ??? ???????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0056",
+    "prompt": "????? 106 ?????? 120.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0057",
+    "prompt": "27 + 10 = 38.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0058",
+    "prompt": "??? 2028 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0059",
+    "prompt": "? ??????? 30 ????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0060",
+    "prompt": "????? 160 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0061",
+    "prompt": "????? 211 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0062",
+    "prompt": "????? 112 ?????? 120.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0063",
+    "prompt": "13 + 16 = 30.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0064",
+    "prompt": "??? 2004 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0065",
+    "prompt": "? ???? 30 ????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0066",
+    "prompt": "????? 166 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0067",
+    "prompt": "????? 217 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0068",
+    "prompt": "????? 118 ?????? 120.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0069",
+    "prompt": "19 + 9 = 29.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0070",
+    "prompt": "??? 2010 ???????? ??????????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0071",
+    "prompt": "? ??????? 30 ????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0072",
+    "prompt": "????? 172 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0073",
+    "prompt": "????? 223 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0074",
+    "prompt": "????? 124 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0075",
+    "prompt": "25 + 15 = 41.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0076",
+    "prompt": "??? 2016 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0077",
+    "prompt": "? ???? 30 ????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0078",
+    "prompt": "????? 178 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0079",
+    "prompt": "????? 229 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0080",
+    "prompt": "????? 130 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0081",
+    "prompt": "11 + 8 = 20.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0082",
+    "prompt": "??? 2022 ???????? ??????????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0083",
+    "prompt": "? ??????? 30 ????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0084",
+    "prompt": "????? 184 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0085",
+    "prompt": "????? 235 ??????? ?? 5 ??? ???????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0086",
+    "prompt": "????? 136 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0087",
+    "prompt": "17 + 14 = 32.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0088",
+    "prompt": "??? 2028 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0089",
+    "prompt": "? ???? 30 ????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0090",
+    "prompt": "????? 190 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0091",
+    "prompt": "????? 241 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0092",
+    "prompt": "????? 142 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0093",
+    "prompt": "23 + 7 = 31.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0094",
+    "prompt": "??? 2004 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0095",
+    "prompt": "? ??????? 30 ????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0096",
+    "prompt": "????? 196 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0097",
+    "prompt": "????? 247 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0098",
+    "prompt": "????? 148 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0099",
+    "prompt": "29 + 13 = 43.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0100",
+    "prompt": "??? 2010 ???????? ??????????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0101",
+    "prompt": "? ???? 30 ????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0102",
+    "prompt": "????? 202 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0103",
+    "prompt": "????? 253 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0104",
+    "prompt": "????? 154 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0105",
+    "prompt": "15 + 6 = 22.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0106",
+    "prompt": "??? 2016 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0107",
+    "prompt": "? ??????? 30 ????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0108",
+    "prompt": "????? 208 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0109",
+    "prompt": "????? 259 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0110",
+    "prompt": "????? 160 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0111",
+    "prompt": "21 + 12 = 34.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0112",
+    "prompt": "??? 2022 ???????? ??????????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0113",
+    "prompt": "? ???? 30 ????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0114",
+    "prompt": "????? 214 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0115",
+    "prompt": "????? 265 ??????? ?? 5 ??? ???????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0116",
+    "prompt": "????? 166 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0117",
+    "prompt": "27 + 5 = 33.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0118",
+    "prompt": "??? 2028 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0119",
+    "prompt": "? ??????? 30 ????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0120",
+    "prompt": "????? 220 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0121",
+    "prompt": "????? 271 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0122",
+    "prompt": "????? 172 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0123",
+    "prompt": "13 + 11 = 25.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0124",
+    "prompt": "??? 2004 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0125",
+    "prompt": "? ???? 30 ????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0126",
+    "prompt": "????? 226 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0127",
+    "prompt": "????? 277 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0128",
+    "prompt": "????? 178 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0129",
+    "prompt": "19 + 17 = 37.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0130",
+    "prompt": "??? 2010 ???????? ??????????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0131",
+    "prompt": "? ??????? 30 ????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0132",
+    "prompt": "????? 232 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0133",
+    "prompt": "????? 283 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0134",
+    "prompt": "????? 184 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0135",
+    "prompt": "25 + 10 = 36.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0136",
+    "prompt": "??? 2016 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0137",
+    "prompt": "? ???? 30 ????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0138",
+    "prompt": "????? 238 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0139",
+    "prompt": "????? 289 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0140",
+    "prompt": "????? 190 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0141",
+    "prompt": "11 + 16 = 28.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0142",
+    "prompt": "??? 2022 ???????? ??????????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0143",
+    "prompt": "? ??????? 30 ????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0144",
+    "prompt": "????? 244 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0145",
+    "prompt": "????? 295 ??????? ?? 5 ??? ???????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0146",
+    "prompt": "????? 196 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0147",
+    "prompt": "17 + 9 = 27.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0148",
+    "prompt": "??? 2028 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0149",
+    "prompt": "? ???? 30 ????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0150",
+    "prompt": "????? 250 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0151",
+    "prompt": "????? 301 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0152",
+    "prompt": "????? 202 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0153",
+    "prompt": "23 + 15 = 39.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0154",
+    "prompt": "??? 2004 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0155",
+    "prompt": "? ??????? 30 ????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0156",
+    "prompt": "????? 256 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0157",
+    "prompt": "????? 307 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0158",
+    "prompt": "????? 208 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0159",
+    "prompt": "29 + 8 = 38.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0160",
+    "prompt": "??? 2010 ???????? ??????????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0161",
+    "prompt": "? ???? 30 ????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0162",
+    "prompt": "????? 262 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0163",
+    "prompt": "????? 313 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0164",
+    "prompt": "????? 214 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0165",
+    "prompt": "15 + 14 = 30.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0166",
+    "prompt": "??? 2016 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0167",
+    "prompt": "? ??????? 30 ????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0168",
+    "prompt": "????? 268 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0169",
+    "prompt": "????? 319 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0170",
+    "prompt": "????? 220 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0171",
+    "prompt": "21 + 7 = 29.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0172",
+    "prompt": "??? 2022 ???????? ??????????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0173",
+    "prompt": "? ???? 30 ????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0174",
+    "prompt": "????? 274 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0175",
+    "prompt": "????? 325 ??????? ?? 5 ??? ???????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0176",
+    "prompt": "????? 226 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0177",
+    "prompt": "27 + 13 = 41.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0178",
+    "prompt": "??? 2028 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0179",
+    "prompt": "? ??????? 30 ????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0180",
+    "prompt": "????? 280 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0181",
+    "prompt": "????? 331 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0182",
+    "prompt": "????? 232 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0183",
+    "prompt": "13 + 6 = 20.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0184",
+    "prompt": "??? 2004 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0185",
+    "prompt": "? ???? 30 ????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0186",
+    "prompt": "????? 286 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0187",
+    "prompt": "????? 337 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0188",
+    "prompt": "????? 238 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0189",
+    "prompt": "19 + 12 = 32.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0190",
+    "prompt": "??? 2010 ???????? ??????????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0191",
+    "prompt": "? ??????? 30 ????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0192",
+    "prompt": "????? 292 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0193",
+    "prompt": "????? 343 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0194",
+    "prompt": "????? 244 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0195",
+    "prompt": "25 + 5 = 31.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0196",
+    "prompt": "??? 2016 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0197",
+    "prompt": "? ???? 30 ????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0198",
+    "prompt": "????? 298 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0199",
+    "prompt": "????? 349 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0200",
+    "prompt": "????? 250 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0201",
+    "prompt": "11 + 11 = 23.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0202",
+    "prompt": "??? 2022 ???????? ??????????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0203",
+    "prompt": "? ??????? 30 ????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0204",
+    "prompt": "????? 304 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0205",
+    "prompt": "????? 355 ??????? ?? 5 ??? ???????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0206",
+    "prompt": "????? 256 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0207",
+    "prompt": "17 + 17 = 35.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0208",
+    "prompt": "??? 2028 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0209",
+    "prompt": "? ???? 30 ????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0210",
+    "prompt": "????? 310 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0211",
+    "prompt": "????? 361 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0212",
+    "prompt": "????? 262 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0213",
+    "prompt": "23 + 10 = 34.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0214",
+    "prompt": "??? 2004 ???????? ??????????.",
+    "answer": 1,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  },
+  {
+    "id": "fact-ru-0215",
+    "prompt": "? ??????? 30 ????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "months"
+    ]
+  },
+  {
+    "id": "fact-ru-0216",
+    "prompt": "????? 316 ???????? ??????.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "parity"
+    ]
+  },
+  {
+    "id": "fact-ru-0217",
+    "prompt": "????? 367 ??????? ?? 5 ??? ???????.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "divisibility"
+    ]
+  },
+  {
+    "id": "fact-ru-0218",
+    "prompt": "????? 268 ?????? 120.",
+    "answer": 1,
+    "tags": [
+      "math",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fact-ru-0219",
+    "prompt": "29 + 16 = 46.",
+    "answer": 0,
+    "tags": [
+      "math",
+      "arithmetic"
+    ]
+  },
+  {
+    "id": "fact-ru-0220",
+    "prompt": "??? 2010 ???????? ??????????.",
+    "answer": 0,
+    "tags": [
+      "calendar",
+      "dates"
+    ]
+  }
+]

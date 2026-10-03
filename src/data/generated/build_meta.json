@@ -1,0 +1,42 @@
+{
+  "generatedAt": "2026-02-22T15:24:11.448Z",
+  "source": "wikidata",
+  "mode": "cached-forced",
+  "totalFacts": 2067,
+  "generatedFromRows": 2067,
+  "generatedThresholdFacts": 1764,
+  "generatedHistoryFacts": 303,
+  "supplementedFromOffline": 0,
+  "queries": [
+    {
+      "name": "area_countries",
+      "propertyId": "P2046",
+      "rawRows": 40,
+      "producedFactsEstimate": 480
+    },
+    {
+      "name": "elevation_cities",
+      "propertyId": "P2044",
+      "rawRows": 40,
+      "producedFactsEstimate": 480
+    },
+    {
+      "name": "population_countries",
+      "propertyId": "P1082",
+      "rawRows": 40,
+      "producedFactsEstimate": 480
+    },
+    {
+      "name": "length_rivers",
+      "propertyId": "P2043",
+      "rawRows": 80,
+      "producedFactsEstimate": 960
+    },
+    {
+      "name": "history_birth_people",
+      "propertyId": "P569",
+      "rawRows": 45,
+      "producedFactsEstimate": 90
+    }
+  ]
+}
